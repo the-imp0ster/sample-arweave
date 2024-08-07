@@ -8,6 +8,7 @@ This script uploads a small collection of public domain poems to Arweave, a perm
 - `cremationsammcgee.html`: "The Cremation of Sam McGee" by Robert W. Service (public domain)
 -  `invictus.html` : "Invictus" by William Ernest Henley (public domain)
 -  `ocaptain.html` : "O Captain, My Captain!" by Walt Whitman (public domain)
+- `theroadnottaken.html` : "The Road Not Taken" by Robert Frost (public domain)
 - `index.js`: Script to upload HTML files to Arweave
 - `arconnect-wallet.json`: Your Arweave wallet (ensure this is in your`.gitignore`)
 
@@ -37,6 +38,7 @@ sample-arweave/
 ├── package-lock.json
 ├── package.json
 ├── cremationsammcgee.html
+├── theroadnottaken.html
 ├── invictus.html
 ├── ocaptain.html
 └── toc.html
